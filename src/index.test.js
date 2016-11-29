@@ -10,6 +10,6 @@ describe('My first test', function () {
 describe('Testing create module', () => {
 
     it('should match return value', () => {
-        expect(1).to.equal(2);
+        expect(1).to.equal(1);
     });
 });
